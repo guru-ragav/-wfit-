@@ -1,0 +1,6 @@
+{
+  "name": "WFIT GYM",
+  "description": "WFIT GYM — Elite Fitness & Strength Club. Modern equipment, certified trainers, interactive demo dashboards for Owner, Manager, Trainer, and Member, and instant demo payment simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
